@@ -1,0 +1,17 @@
+.array-container {
+    position: absolute;
+    left: 100px;
+    height: 8vh;
+    /* top: 100px; */
+}
+.mainclass{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* margin-left: 500vw; */
+}
+.array-bar {
+    width: 2px;
+    display: inline-block;
+    margin: 0 1px;
+}
